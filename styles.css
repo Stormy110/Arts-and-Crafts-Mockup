@@ -1,0 +1,40 @@
+.header {
+    background-image: url("./pattern\ 1.webp");
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+#green-background {
+    background-color: mediumspringgreen;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+#red-background {
+    background-color: lightcoral;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+#blue-background {
+    background-color: skyblue;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+body {
+    border: red solid 1px;
+    padding: 5px;
+    margin: 5px;
+}
